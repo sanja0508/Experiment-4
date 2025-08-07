@@ -1,9 +1,15 @@
 # Experiment-4
-Aim: To study and implement Bitwise Operators in C++.
+AIM
 
-Software Required: Visual Studio
+To study and implement Bitwise Operators in C++.
 
-Theory: In C++, bitwise operators allow direct manipulation of bits within integer data types. These operators treat values as sequences of binary digits (bits) rather than decimal or hexadecimal numbers. Bitwise operations are crucial in low-level programming, system-level tasks, memory-efficient applications, embedded systems, and performance optimization.
+SOFTWARE REQUIRED
+
+Visual Studio
+
+THEORY
+
+In C++, bitwise operators allow direct manipulation of bits within integer data types. These operators treat values as sequences of binary digits (bits) rather than decimal or hexadecimal numbers. Bitwise operations are crucial in low-level programming, system-level tasks, memory-efficient applications, embedded systems, and performance optimization.
 
 Below are the commonly used bitwise operators in C++:
 
@@ -21,7 +27,8 @@ Right Shift (>>) Shifts the bits of a number to the right by a specified number 
 
 Implementation: To understand the practical use of bitwise operators in C++, two programs were implemented:
 
-Program 1: Basic Bitwise Operations Objective: To perform and display the results of various bitwise operations using two predefined integers.
+PROGRAM 1
+Basic Bitwise Operations Objective: To perform and display the results of various bitwise operations using two predefined integers.
 
 Steps:
 
@@ -49,7 +56,8 @@ Display all results using cout
 
 End
 
-Program 2: Setting and Resetting Bits Objective: To modify a predefined integer by setting and resetting specific bits based on user input.
+PROGRAM 2
+Setting and Resetting Bits Objective: To modify a predefined integer by setting and resetting specific bits based on user input.
 
 Steps:
 
@@ -75,4 +83,6 @@ Display the result after resetting
 
 End
 
-Conclusion: This experiment explored the various types of bitwise operators available in C++. Through hands-on implementation, I gained insight into how bit-level operations can be used for data manipulation, setting and clearing bits, and performing efficient calculations within a program.
+CONCLUSION
+
+This experiment explored the various types of bitwise operators available in C++. Through hands-on implementation, I gained insight into how bit-level operations can be used for data manipulation, setting and clearing bits, and performing efficient calculations within a program.
